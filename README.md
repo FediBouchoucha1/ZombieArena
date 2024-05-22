@@ -50,6 +50,3 @@ Welcome to Zombie Arena, an adrenaline-fueled survival game where you must fight
 
 Zombie Arena is based on ideas and concepts from "Beginning C++ Game Programming" by John Horton. Special thanks to the SFML development team for providing the graphics library that powers the game.
 
-## License:
-
-This project is licensed under the [MIT License](LICENSE), allowing for open distribution and modification. Feel free to fork the repository, contribute improvements, or use the code for your own projects.
