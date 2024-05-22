@@ -1,0 +1,66 @@
+﻿  Player.cpp
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\Player.cpp(7,13): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\Player.cpp(8,16): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\Player.cpp(23,29): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\Player.cpp(23,29): warning C4244:         with
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\Player.cpp(23,29): warning C4244:         [
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\Player.cpp(23,29): warning C4244:             T=float
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\Player.cpp(23,29): warning C4244:         ]
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\Player.cpp(24,30): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\Player.cpp(24,30): warning C4244:         with
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\Player.cpp(24,30): warning C4244:         [
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\Player.cpp(24,30): warning C4244:             T=float
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\Player.cpp(24,30): warning C4244:         ]
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\Player.cpp(47,13): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\Player.cpp(48,16): warning C4244: '=': conversion from 'const float' to 'int', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\Player.cpp(153,32): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\Player.cpp(153,32): warning C4244:         with
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\Player.cpp(153,32): warning C4244:         [
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\Player.cpp(153,32): warning C4244:             T=float
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\Player.cpp(153,32): warning C4244:         ]
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\Player.cpp(157,31): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\Player.cpp(157,31): warning C4244:         with
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\Player.cpp(157,31): warning C4244:         [
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\Player.cpp(157,31): warning C4244:             T=float
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\Player.cpp(157,31): warning C4244:         ]
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\Player.cpp(161,33): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\Player.cpp(161,33): warning C4244:         with
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\Player.cpp(161,33): warning C4244:         [
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\Player.cpp(161,33): warning C4244:             T=float
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\Player.cpp(161,33): warning C4244:         ]
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\Player.cpp(165,30): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\Player.cpp(165,30): warning C4244:         with
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\Player.cpp(165,30): warning C4244:         [
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\Player.cpp(165,30): warning C4244:             T=float
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\Player.cpp(165,30): warning C4244:         ]
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\Player.cpp(168,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\Player.cpp(179,26): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\Player.cpp(184,31): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  ZombieArena.cpp
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\ZombieArena.cpp(33,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\ZombieArena.cpp(33,44): warning C4244:         with
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\ZombieArena.cpp(33,44): warning C4244:         [
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\ZombieArena.cpp(33,44): warning C4244:             T=float
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\ZombieArena.cpp(33,44): warning C4244:         ]
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\ZombieArena.cpp(34,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\ZombieArena.cpp(34,44): warning C4244:         with
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\ZombieArena.cpp(34,44): warning C4244:         [
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\ZombieArena.cpp(34,44): warning C4244:             T=float
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\ZombieArena.cpp(34,44): warning C4244:         ]
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\ZombieArena.cpp(37,37): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\ZombieArena.cpp(37,37): warning C4244:         with
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\ZombieArena.cpp(37,37): warning C4244:         [
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\ZombieArena.cpp(37,37): warning C4244:             T=float
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\ZombieArena.cpp(37,37): warning C4244:         ]
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\ZombieArena.cpp(37,23): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\ZombieArena.cpp(37,23): warning C4244:         with
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\ZombieArena.cpp(37,23): warning C4244:         [
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\ZombieArena.cpp(37,23): warning C4244:             T=float
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\ZombieArena.cpp(37,23): warning C4244:         ]
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\ZombieArena.cpp(621,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\ZombieArena.cpp(621,50): warning C4244:         with
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\ZombieArena.cpp(621,50): warning C4244:         [
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\ZombieArena.cpp(621,50): warning C4244:             T=float
+C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\ZombieArena\ZombieArena.cpp(621,50): warning C4244:         ]
+  Generating Code...
+  ZombieArena.vcxproj -> C:\Users\fadif\OneDrive\Bureau\SFML\1stTry\BookProjects\3rdGame\ZombieArena\x64\Debug\ZombieArena.exe
